@@ -1,7 +1,7 @@
 {
   "name": "@nas-studios/tooling-configs",
   "type": "module",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "ESLint config presets",
   "author": "Thibault Pointurier <thibault.pointurier.pro@gmail.com>",
   "license": "MIT",
