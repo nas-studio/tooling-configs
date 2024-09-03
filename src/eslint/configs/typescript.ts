@@ -69,7 +69,7 @@ export async function typescript(
         ...pluginTs.configs['strict']!.rules,
 
         '@typescript-eslint/consistent-type-imports': [
-          'warning',
+          'warn',
           { prefer: 'type-imports', disallowTypeAnnotations: false },
         ],
         '@typescript-eslint/padding-line-between-statements': [
